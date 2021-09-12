@@ -1,1 +1,8 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
+
+## Contents
+
+#### Technologies
+* HTML
+* CSS
+* javaScript
