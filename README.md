@@ -1,6 +1,5 @@
 # Work Day Scheduler
-
-## Contents
+A simple calendar app for scheduling your work day
 
 #### Technologies
 * HTML
